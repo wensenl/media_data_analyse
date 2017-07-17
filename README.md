@@ -1,2 +1,9 @@
-# 说明
-pcm data conver, eg, 32-bit float convert to 16-bit signed
+# 工程说明
+本工程是一些图片数据分析、音视频数据分析实例。
+
+
+# 编译环境说明
+整个工程是在Linux环境下基于cmake进行组织和编译。
+
+首先，确认Linux系统是否安装gcc、g++、make、cmake工具。
+
